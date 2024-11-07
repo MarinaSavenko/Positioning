@@ -1,0 +1,33 @@
+.container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.block{
+	width: 300px;
+	height: 500px;
+	position: absolute;
+}
+.block1{
+	background-color: rgb(139, 139, 248);
+	position: relative;
+	bottom: 0;
+	left: 0;
+}
+.block2{
+	background-color: rgb(114, 239, 168);
+}
+.block3{
+	background-color: rgb(239, 125, 229);
+}
+.block4{
+	background-color: rgb(248, 240, 147);
+}
+.block5{
+	background-color: rgb(208, 108, 120);
+}
+p{
+	color: darkslategrey;
+	text-align: center;
+	font-size: 50px;
+}
